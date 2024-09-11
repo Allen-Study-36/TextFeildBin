@@ -40,6 +40,9 @@
                             <constraint firstItem="AxU-lI-Isz" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="gsF-nS-2YL"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="textField" destination="dCR-u0-kef" id="agg-Lw-tFW"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
